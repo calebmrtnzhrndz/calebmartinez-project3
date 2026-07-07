@@ -11,5 +11,5 @@ Information includes the director, the Rotten Tomatoes score, a brief plot descr
 - JavaScript
 - Studio Ghibli API
 
-- ## Deployment
-- To access the project, visit https://8h2c79.csb.app/
+## Deployment
+To access the project, visit https://8h2c79.csb.app/
